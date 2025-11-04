@@ -12,10 +12,9 @@ This project demonstrates how to:
 - Save and load a trained model using *Pickle (.pkl)*.
 - Deploy a beautiful *Streamlit web application* for real-time predictions.
 
----
+
 
 #🧩Tech Stack
-
 | Component | Technology Used |
 |------------|----------------|
 | Programming Language | Python  |
